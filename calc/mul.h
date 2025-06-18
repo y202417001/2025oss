@@ -1,3 +1,3 @@
 #pragma once
-///edit in dev/b branch
+////edit in dev/b branch
 int mul(int, int);
