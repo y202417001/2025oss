@@ -17,7 +17,7 @@ int main()
 
     for (; i < 10; i++)
     {
-        std::cout << "첫 번째 수를 입력하세요 : ";
+        std::cout << "첫번째 수를 입력하세요 : ";
         std::cin >> x;
 
         if (-999 == x)
